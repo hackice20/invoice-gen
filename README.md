@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# invoice-gen
-=======
 # Invoice Generator
 
 A feature-rich, user-friendly invoice generator with real-time preview and professional design.
